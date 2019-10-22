@@ -1,70 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/projects/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/uni/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/uni2/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/uni3/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/uni4/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/college/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/college1/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/college2/</loc>
-     <lastmod>2017-11-04</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-10-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
 </urlset>
